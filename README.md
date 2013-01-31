@@ -8,3 +8,13 @@
 	<li>Select 'Collaborators' in left hand list</li>
 	<li>Add Username and save</li>
 </ul>
+
+<h2>Homework assignments</h2>
+<p>Assets for homework assignments can be found in the /homework/ folder with each week having a respective folder</p>
+
+<h2>Online Assets</h2>
+
+<dl>
+	<dt>HTML5 Boilerplate</dt>
+	<dd><a href="http://html5boilerplate.com/">HTML5 Boilerplate</a>
+</dl>
